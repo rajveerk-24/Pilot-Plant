@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750654186819",
+    "project_id": "pilot-plant-4d9d9",
+    "storage_bucket": "pilot-plant-4d9d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750654186819:android:bce1261e5ea0bbd4213bf6",
+        "android_client_info": {
+          "package_name": "com.sarrafenterprises.app7_nav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC92rng43MbyYUPALRjU3l1Rb4AAmiohUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
