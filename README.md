@@ -1,0 +1,6 @@
+![Screenshot_20240429_211409_Pilot Plant](https://github.com/rajveerk-24/Pilot-Plant/assets/93856063/a8ff357c-fe03-4d77-9a39-8ea64058e6d0)
+![Screenshot_20240429_211052_Pilot Plant](https://github.com/rajveerk-24/Pilot-Plant/assets/93856063/b4df1044-b27e-4f6a-98a1-fc51f69b2e1c)
+![Screenshot_20240429_211544_Pilot Plant](https://github.com/rajveerk-24/Pilot-Plant/assets/93856063/67b9c71f-316c-4642-97eb-7bdf97e2abbc)
+![Screenshot_20240429_211528_Pilot Plant](https://github.com/rajveerk-24/Pilot-Plant/assets/93856063/58e52e4c-8984-40c1-adc7-d7eb22bd79f2)
+![circuit diagram](https://github.com/rajveerk-24/Pilot-Plant/assets/93856063/b495300b-fbdd-4852-8250-bf9d071644de)
+![Plant](https://github.com/rajveerk-24/Pilot-Plant/assets/93856063/680b7989-602c-4e72-b49d-579240710d4f)
